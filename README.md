@@ -19,6 +19,17 @@ Atualmente estou em busca da minha primeira oportunidade com desenvolvimento, se
 
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=30)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white&logoWidth=30)](https://spring.io/projects/spring-boot)
+[![Spring Framework](https://img.shields.io/badge/-Spring_Framework-6DB33F?logo=spring&logoColor=white&logoWidth=30)](https://spring.io/projects/spring-framework)
+[![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white&logoWidth=30)](https://maven.apache.org/)
+[![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&logoWidth=30)](https://hibernate.org/)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&logoWidth=30)](https://www.jetbrains.com/idea/)
+[![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white&logoWidth=30)](https://junit.org/junit5/)
+
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&logoWidth=30)](https://reactjs.org/)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&logoWidth=30)](https://angular.io/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&logoWidth=30)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&logoWidth=30)](https://tailwindcss.com/)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&logoWidth=30)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&logoWidth=30)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
