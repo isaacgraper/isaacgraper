@@ -10,7 +10,7 @@
 
 Tenho experiência profissional na área de Dados, desde Analista até Engenheiro de Dados, com foco no ambiente Azure Synapse Analytics. Participei ativamente de projetos, incluindo a implementação de um Data Vault para garantir a rastreabilidade e segurança dos dados, evitando exclusões definitivas de informações sensíveis.
 
-Atualmente estou em busca da minha primeira oportunidade com desenvolvimento, seja ele web ou outros.
+Atualmente estou em busca da minha primeira oportunidade com desenvolvimento, em qualquer linguagem em que eu possa aprender e me desenvolver!
 
 
 
@@ -20,6 +20,7 @@ Atualmente estou em busca da minha primeira oportunidade com desenvolvimento, se
 [![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-F80000?logo=oracle&logoColor=white&logoWidth=30)](https://www.oracle.com/database/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&logoWidth=30)](https://www.postgresql.org/)
 [![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&logoWidth=30)](https://www.microsoft.com/en-us/sql-server)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&logoWidth=30)](https://www.mongodb.com/)
 
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=30)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white&logoWidth=30)](https://spring.io/projects/spring-boot)
