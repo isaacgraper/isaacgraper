@@ -42,3 +42,10 @@ Atualmente estou em busca da minha primeira oportunidade com desenvolvimento, em
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&logoWidth=30)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&logoWidth=30)](https://www.linux.org/)
 
+## Outros
+
+[![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&logoWidth=30)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&logoWidth=30)](https://dotnet.microsoft.com/)
+[![xUnit.net](https://img.shields.io/badge/-xUnit.net-512BD4?logo=xunit&logoColor=white&logoWidth=30)](https://xunit.net/)
+[![ASP.NET Web API](https://img.shields.io/badge/-ASP.NET_Web_API-512BD4?logo=.net&logoColor=white&logoWidth=30)](https://dotnet.microsoft.com/apps/aspnet/apis)
+
