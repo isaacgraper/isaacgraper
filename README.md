@@ -32,4 +32,8 @@ Atualmente estou em busca da minha primeira oportunidade com desenvolvimento, se
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&logoWidth=30)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&logoWidth=30)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&logoWidth=30)](https://www.postman.com/)
+[![DBeaver](https://img.shields.io/badge/-DBeaver-333333?logo=dbeaver&logoColor=white&logoWidth=30)](https://dbeaver.io/)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&logoWidth=30)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&logoWidth=30)](https://www.linux.org/)
 
