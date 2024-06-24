@@ -4,11 +4,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-isaac--graper-8A2BE2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/seu-perfil)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-8A2BE2?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/5547997754529)
 
+
+
 ## About me 
 
 Tenho experiência profissional na área de Dados, desde Analista até Engenheiro de Dados, com foco no ambiente Azure Synapse Analytics. Participei ativamente de projetos, incluindo a implementação de um Data Vault para garantir a rastreabilidade e segurança dos dados, evitando exclusões definitivas de informações sensíveis.
 
 Atualmente estou em busca da minha primeira oportunidade com desenvolvimento, seja ele web ou outros.
+
+
 
 ## Stack
 
