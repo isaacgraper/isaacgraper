@@ -26,13 +26,16 @@ Atualmente estou em busca da minha primeira oportunidade com desenvolvimento, em
 [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&logoWidth=30)](https://www.prisma.io/)
 [![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&logoWidth=30)](https://sequelize.org/)
 
-[comment] [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=30)](https://www.java.com/)
-[comment] [![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white&logoWidth=30)](https://spring.io/projects/spring-boot)
-[comment] [![Spring Framework](https://img.shields.io/badge/-Spring_Framework-6DB33F?logo=spring&logoColor=white&logoWidth=30)](https://spring.io/projects/spring-framework)
-[comment] [![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white&logoWidth=30)](https://maven.apache.org/)
-[comment] [![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&logoWidth=30)](https://hibernate.org/)
-[comment] [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&logoWidth=30)](https://www.jetbrains.com/idea/)
-[comment] [![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white&logoWidth=30)](https://junit.org/junit5/)
+
+<!--
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=30)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white&logoWidth=30)](https://spring.io/projects/spring-boot)
+[![Spring Framework](https://img.shields.io/badge/-Spring_Framework-6DB33F?logo=spring&logoColor=white&logoWidth=30)](https://spring.io/projects/spring-framework)
+[![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white&logoWidth=30)](https://maven.apache.org/)
+[![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&logoWidth=30)](https://hibernate.org/)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&logoWidth=30)](https://www.jetbrains.com/idea/)
+[![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white&logoWidth=30)](https://junit.org/junit5/)
+-->
 
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&logoWidth=30)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&logoWidth=30)](https://getbootstrap.com/)
