@@ -40,6 +40,7 @@ Atualmente estou em busca da minha primeira oportunidade com desenvolvimento, em
 
 ## Hobbys
 
+<!-- 
 [![C](https://img.shields.io/badge/-C-00599C?logo=c%2B%2B&logoColor=white&logoWidth=30)](https://isocpp.org/)
 [![NMAP](https://img.shields.io/badge/-NMAP-4682B4?logo=nmap&logoColor=white&logoWidth=30)](https://nmap.org/)
 [![Networking](https://img.shields.io/badge/-Networking-000000?logo=network&logoColor=white&logoWidth=30)](https://en.wikipedia.org/wiki/Computer_network)
@@ -52,4 +53,5 @@ Atualmente estou em busca da minha primeira oportunidade com desenvolvimento, em
 [![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white&logoWidth=30)](https://www.kali.org/)
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&logoWidth=30)](https://www.gnu.org/software/bash/)
 [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&logoWidth=30)](https://docs.microsoft.com/en-us/powershell/)
+-->
 [![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?logo=bitcoin&logoColor=white&logoWidth=30)](https://bitcoin.org/)
