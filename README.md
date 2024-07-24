@@ -24,8 +24,6 @@ Atualmente estou em busca da minha primeira oportunidade com desenvolvimento, em
 [![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-6DB33F?logo=spring&logoColor=white&logoWidth=30)](https://spring.io/projects/spring-framework)
 [![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&logoWidth=30)](https://hibernate.org/)
 [![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white&logoWidth=30)](https://maven.apache.org/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&logoWidth=30)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=30)](https://www.mysql.com/)
 
 <!--
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=30)](https://www.java.com/)
