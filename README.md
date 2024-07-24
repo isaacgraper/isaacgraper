@@ -19,13 +19,13 @@ Atualmente estou em busca da minha primeira oportunidade com desenvolvimento, em
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&logoWidth=30)](https://www.postgresql.org/)
 [![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&logoWidth=30)](https://www.microsoft.com/en-us/sql-server)
 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&logoWidth=30)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&logoWidth=30)](https://expressjs.com/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?logo=javascript&logoColor=black&logoWidth=30)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&logoWidth=30)](https://www.typescriptlang.org/)
-[![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&logoWidth=30)](https://www.prisma.io/)
-[![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&logoWidth=30)](https://sequelize.org/)
-
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=30)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&logoWidth=30)](https://spring.io/projects/spring-boot)
+[![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-6DB33F?logo=spring&logoColor=white&logoWidth=30)](https://spring.io/projects/spring-framework)
+[![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&logoWidth=30)](https://hibernate.org/)
+[![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white&logoWidth=30)](https://maven.apache.org/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&logoWidth=30)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=30)](https://www.mysql.com/)
 
 <!--
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=30)](https://www.java.com/)
@@ -39,6 +39,7 @@ Atualmente estou em busca da minha primeira oportunidade com desenvolvimento, em
 
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&logoWidth=30)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&logoWidth=30)](https://getbootstrap.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?logo=javascript&logoColor=black&logoWidth=30)](https://www.javascript.com/)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&logoWidth=30)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&logoWidth=30)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
