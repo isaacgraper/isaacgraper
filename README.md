@@ -46,5 +46,5 @@
 [![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white&logoWidth=30)](https://www.kali.org/)
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&logoWidth=30)](https://www.gnu.org/software/bash/)
 [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&logoWidth=30)](https://docs.microsoft.com/en-us/powershell/)
--->
 [![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?logo=bitcoin&logoColor=white&logoWidth=30)](https://bitcoin.org/)
+-->
