@@ -1,7 +1,7 @@
 # Contacts
 
 [![Email](https://img.shields.io/badge/Email-isaac.graper%40gmail.com-8A2BE2?logo=gmail&logoColor=white&style=for-the-badge)](mailto:isaac.graper@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaac--graper-8A2BE2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaacgraper-8A2BE2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/isaacgraper/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-8A2BE2?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/5547997754529)
 
 <!--
