@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-isaac--graper-8A2BE2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/seu-perfil)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-8A2BE2?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/5547997754529)
 
+<!--
 ## Stack
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=30)](https://www.mysql.com/)
