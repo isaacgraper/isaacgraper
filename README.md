@@ -4,14 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-isaac--graper-8A2BE2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/seu-perfil)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-8A2BE2?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/5547997754529)
 
-## About me 
-
-Tenho experiência profissional na área de Dados, começando como Estagiário e atuando como Analista de Dados/Suporte a Negócio. Desenvolvi dashboards personalizados em conjunto com as demandas dos clientes, participei de reuniões de alinhamento das demandas e realizei a extração de dados de ERPs como Tasy e MV. 
-
-Participei ativamente de projetos, incluindo a implementação de um Data Vault para garantir a rastreabilidade e segurança dos dados, evitando exclusões definitivas de informações sensíveis.
-
-Atualmente estou em busca da minha primeira oportunidade com desenvolvimento, em qualquer linguagem em que eu possa aprender e me desenvolver!
-
 ## Stack
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=30)](https://www.mysql.com/)
