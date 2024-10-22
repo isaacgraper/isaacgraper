@@ -2,7 +2,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-isaacgraper-8A2BE2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/isaacgraper/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-8A2BE2?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/5547997754529)
 
-<!--
 ## Stack
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=30)](https://www.mysql.com/)
@@ -31,12 +30,10 @@
 
 ## Hobbys
 
-<!-- 
 [![C](https://img.shields.io/badge/-C-00599C?logo=c%2B%2B&logoColor=white&logoWidth=30)](https://isocpp.org/)
 [![NMAP](https://img.shields.io/badge/-NMAP-4682B4?logo=nmap&logoColor=white&logoWidth=30)](https://nmap.org/)
 [![Networking](https://img.shields.io/badge/-Networking-000000?logo=network&logoColor=white&logoWidth=30)](https://en.wikipedia.org/wiki/Computer_network)
 [![C2](https://img.shields.io/badge/-Command%20and%20Control-FF4500?logo=c&logoColor=white&logoWidth=30)](https://en.wikipedia.org/wiki/Command_and_control)
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&logoWidth=30)](https://www.python.org/)
 [![Botnets](https://img.shields.io/badge/-Botnets-FF4500?logo=botnet&logoColor=white&logoWidth=30)](https://en.wikipedia.org/wiki/Botnet)
 [![Exploits](https://img.shields.io/badge/-Exploits-8B0000?logo=exploit&logoColor=white&logoWidth=30)](https://en.wikipedia.org/wiki/Exploit_(computer_security))
 [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&logoWidth=30)](https://www.wireshark.org/)
