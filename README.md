@@ -17,8 +17,6 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&logoWidth=30)](https://www.jetbrains.com/idea/)
 [![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white&logoWidth=30)](https://junit.org/junit5/)
 
-[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&logoWidth=30)](https://golang.org/)
-
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&logoWidth=30)](https://www.postman.com/)
 [![DBeaver](https://img.shields.io/badge/-DBeaver-333333?logo=dbeaver&logoColor=white&logoWidth=30)](https://dbeaver.io/)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&logoWidth=30)](https://git-scm.com/)
@@ -26,7 +24,8 @@
 
 ## Hobbys
 
-[![C](https://img.shields.io/badge/-C-00599C?logo=c%2B%2B&logoColor=white&logoWidth=30)](https://isocpp.org/)
+<!-- [![C](https://img.shields.io/badge/-C-00599C?logo=c%2B%2B&logoColor=white&logoWidth=30)](https://isocpp.org/) -->
+[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&logoWidth=30)](https://golang.org/)
 [![NMAP](https://img.shields.io/badge/-NMAP-4682B4?logo=nmap&logoColor=white&logoWidth=30)](https://nmap.org/)
 [![Networking](https://img.shields.io/badge/-Networking-000000?logo=network&logoColor=white&logoWidth=30)](https://en.wikipedia.org/wiki/Computer_network)
 [![C2](https://img.shields.io/badge/-Command%20and%20Control-FF4500?logo=c&logoColor=white&logoWidth=30)](https://en.wikipedia.org/wiki/Command_and_control)
