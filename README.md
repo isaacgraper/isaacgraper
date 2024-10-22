@@ -17,11 +17,7 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&logoWidth=30)](https://www.jetbrains.com/idea/)
 [![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white&logoWidth=30)](https://junit.org/junit5/)
 
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&logoWidth=30)](https://reactjs.org/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&logoWidth=30)](https://getbootstrap.com/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?logo=javascript&logoColor=black&logoWidth=30)](https://www.javascript.com/)
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&logoWidth=30)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&logoWidth=30)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&logoWidth=30)](https://golang.org/)
 
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&logoWidth=30)](https://www.postman.com/)
 [![DBeaver](https://img.shields.io/badge/-DBeaver-333333?logo=dbeaver&logoColor=white&logoWidth=30)](https://dbeaver.io/)
