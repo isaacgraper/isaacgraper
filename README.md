@@ -3,7 +3,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-8A2BE2?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/5547997754529)
 
 ## Stack
-
+<!-- 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=30)](https://www.mysql.com/)
 [![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-F80000?logo=oracle&logoColor=white&logoWidth=30)](https://www.oracle.com/database/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&logoWidth=30)](https://www.postgresql.org/)
@@ -24,7 +24,7 @@
 
 ## Hobbys
 
-<!-- [![C](https://img.shields.io/badge/-C-00599C?logo=c%2B%2B&logoColor=white&logoWidth=30)](https://isocpp.org/) -->
+<!-- [![C](https://img.shields.io/badge/-C-00599C?logo=c%2B%2B&logoColor=white&logoWidth=30)](https://isocpp.org/)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&logoWidth=30)](https://golang.org/)
 [![NMAP](https://img.shields.io/badge/-NMAP-4682B4?logo=nmap&logoColor=white&logoWidth=30)](https://nmap.org/)
 [![Networking](https://img.shields.io/badge/-Networking-000000?logo=network&logoColor=white&logoWidth=30)](https://en.wikipedia.org/wiki/Computer_network)
