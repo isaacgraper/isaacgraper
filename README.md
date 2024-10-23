@@ -1,9 +1,8 @@
 [![Email](https://img.shields.io/badge/Email-isaac.graper%40gmail.com-8A2BE2?logo=gmail&logoColor=white&style=for-the-badge)](mailto:isaac.graper@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-isaacgraper-8A2BE2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/isaacgraper/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-8A2BE2?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/5547997754529)
-
-## Stack
 <!-- 
+## Stack
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=30)](https://www.mysql.com/)
 [![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-F80000?logo=oracle&logoColor=white&logoWidth=30)](https://www.oracle.com/database/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&logoWidth=30)](https://www.postgresql.org/)
