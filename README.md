@@ -1,7 +1,8 @@
-[![Email](https://img.shields.io/badge/Email-isaac.graper%40gmail.com-8A2BE2?logo=gmail&logoColor=white&style=for-the-badge)](mailto:isaac.graper@gmail.com)
+[](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZmODJ2NDdvN28xdzhwNjh4eXVwb3Zoem93OGVwYWltcGdnc3RweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cXblnKXr2BQOaYnTni/giphy.webp)
+<!-- [![Email](https://img.shields.io/badge/Email-isaac.graper%40gmail.com-8A2BE2?logo=gmail&logoColor=white&style=for-the-badge)](mailto:isaac.graper@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-isaacgraper-8A2BE2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/isaacgraper/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-8A2BE2?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/5547997754529)
-<!-- 
+
 ## Stack
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=30)](https://www.mysql.com/)
 [![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-F80000?logo=oracle&logoColor=white&logoWidth=30)](https://www.oracle.com/database/)
